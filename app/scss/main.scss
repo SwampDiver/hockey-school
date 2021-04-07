@@ -131,13 +131,19 @@ input[type="radio"].visually-hidden {
   }
 
   &__input {
+    outline: none;
     border: 1px solid $primary;
     border-radius: 15px;
-    padding: 7px 22px 7px 10px;
+    padding: 7px 30px 7px 10px;
     width: 100%;
 
     &::placeholder {
       color: $primary;
+    }
+
+    &:hover,
+    &:focus {
+      border-color: $hover;
     }
   }
 
@@ -384,7 +390,7 @@ input[type="radio"].visually-hidden {
 
 .carousel-control-next-icon,
 .carousel-control-prev-icon {
-  width: 55px;
+  width: 30px;
   height: 55px;
   background-image: url("../img/icons/arrow.svg");
 }
@@ -689,7 +695,7 @@ input[type="radio"].visually-hidden {
   width: 10px;
   height: 30px;
   font-size: 0;
-  opacity: 0.4;
+  opacity: 0.3;
   transition: $transition;
   cursor: pointer;
 
