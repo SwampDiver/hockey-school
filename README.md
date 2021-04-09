@@ -1,4 +1,4 @@
-# **hockey-school** - сайт хоккейной школы.
+# **Hockey-school** - сайт хоккейной школы.
 
 ***
 - Adaptive, cross browser, a11y
