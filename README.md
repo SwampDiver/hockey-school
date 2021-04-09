@@ -1,5 +1,4 @@
-# **Hockey-school** - сайт хоккейной школы.
-
+# **Hockey school site** 
 ***
 - Adaptive, cross browser, a11y
 - Sass/SCSS
