@@ -1,4 +1,4 @@
-# [Hockey school site](swampdiver.github.io/hockey-school/)
+# [Hockey school site](https://swampdiver.github.io/hockey-school/)
 ***
 - Adaptive, cross browser, a11y
 - Sass/SCSS
